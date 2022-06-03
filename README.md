@@ -1,4 +1,4 @@
-- 👋 Hi, I’m HamidReza Shafiei. No work experience at the moment but i've got hella PASSION!
+- 👋 Hi, I’m HamidReza Shafiei
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 
